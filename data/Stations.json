@@ -1,0 +1,22 @@
+[
+    {
+        "StationId": "1",
+        "Location": "South America",
+        "Description": "Texas engineering station"
+    },
+    {
+        "StationId": "2",
+        "Location": "North America",
+        "Description": "California Station"
+    },
+    {
+        "StationId": "3",
+        "Location": "Europe",
+        "Description": "Central EU station"
+    },
+    {
+        "StationId": "3",
+        "Location": "North America",
+        "Description": "Texas engineering station"
+    }
+]

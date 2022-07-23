@@ -1,0 +1,38 @@
+[
+    {
+        "MachineId": "1021",
+        "MachineName": "Main Machine",
+        "StationId": "1",
+        "Unit": "C"
+    },
+    {
+        "MachineId": "1022",
+        "MachineName": "Backup Machine",
+        "StationId": "1",
+        "Unit": "C"
+    },
+    {
+        "MachineId": "2001",
+        "MachineName": "Central Heater",
+        "StationId": "2",
+        "Unit": "F"
+    },
+    {
+        "MachineId": "3311",
+        "MachineName": "MM1",
+        "StationId": "3",
+        "Unit": "C"
+    },
+    {
+        "MachineId": "4712",
+        "MachineName": "Primary Line",
+        "StationId": "4",
+        "Unit": "F"
+    },
+    {
+        "MachineId": "4975",
+        "MachineName": "Secondary Line",
+        "StationId": "4",
+        "Unit": "F"
+    }
+]
